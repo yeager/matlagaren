@@ -1,0 +1,159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the matlagaren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: matlagaren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:20+0100\n"
+"PO-Revision-Date: 2026-02-22 16:22+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305247/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/matlagaren/main.py:20
+msgid "Sandwich"
+msgstr "Macka"
+
+#: src/matlagaren/main.py:20
+msgid "Get 2 slices of bread"
+msgstr "Ta två brödskivor"
+
+#: src/matlagaren/main.py:20
+msgid "Add butter"
+msgstr "Lägg till smör"
+
+#: src/matlagaren/main.py:20
+msgid "Add cheese"
+msgstr "Lägg till ost"
+
+#: src/matlagaren/main.py:20
+msgid "Add ham"
+msgstr "Lägg till skinka"
+
+#: src/matlagaren/main.py:20
+msgid "Close sandwich"
+msgstr "Stäng mackan"
+
+#: src/matlagaren/main.py:20
+msgid "Cut in half"
+msgstr "Skär i två halvor"
+
+#: src/matlagaren/main.py:20
+msgid "Done! Enjoy!"
+msgstr "Klar! Njut av den!"
+
+#: src/matlagaren/main.py:21
+msgid "Smoothie"
+msgstr "Smoothie"
+
+#: src/matlagaren/main.py:21
+msgid "Get a banana"
+msgstr "Ta en banan"
+
+#: src/matlagaren/main.py:21
+msgid "Peel the banana"
+msgstr "Skala bananen"
+
+#: src/matlagaren/main.py:21
+msgid "Put in blender"
+msgstr "Lägg den i en mixer"
+
+#: src/matlagaren/main.py:21
+msgid "Add milk"
+msgstr "Lägg till mjölk"
+
+#: src/matlagaren/main.py:21
+msgid "Add berries"
+msgstr "Lägg till bär"
+
+#: src/matlagaren/main.py:21
+msgid "Blend!"
+msgstr "Mixa!"
+
+#: src/matlagaren/main.py:21
+msgid "Pour in glass"
+msgstr "Häll i ett glas"
+
+#: src/matlagaren/main.py:22
+msgid "Pancakes"
+msgstr "Pannkakor"
+
+#: src/matlagaren/main.py:22
+msgid "Mix flour and milk"
+msgstr "Blanda mjöl och mjölk"
+
+#: src/matlagaren/main.py:22
+msgid "Add egg"
+msgstr "Lägg till ägg"
+
+#: src/matlagaren/main.py:22
+msgid "Stir well"
+msgstr "Blanda väl"
+
+#: src/matlagaren/main.py:22
+msgid "Heat the pan"
+msgstr "Värm stekpannan"
+
+#: src/matlagaren/main.py:22
+msgid "Pour batter"
+msgstr "Häll i lite smet"
+
+#: src/matlagaren/main.py:22
+msgid "Wait until bubbles"
+msgstr "Vänta tills det bubblar"
+
+#: src/matlagaren/main.py:22
+msgid "Flip!"
+msgstr "Vänd!"
+
+#: src/matlagaren/main.py:22
+msgid "Add toppings"
+msgstr "Lägg till garnering"
+
+#: src/matlagaren/main.py:28 src/matlagaren/main.py:127
+msgid "Matlagaren"
+msgstr "Matlagaren"
+
+#: src/matlagaren/main.py:36
+msgid "About"
+msgstr "Om"
+
+#: src/matlagaren/main.py:47
+msgid "What shall we make?"
+msgstr "Vad ska vi laga?"
+
+#: src/matlagaren/main.py:67
+msgid "Recipes"
+msgstr "Recept"
+
+#: src/matlagaren/main.py:86
+msgid "Done ✓"
+msgstr "Klar ✓"
+
+#: src/matlagaren/main.py:91
+msgid "← Back"
+msgstr "← Bakåt"
+
+#: src/matlagaren/main.py:95
+msgid "Steps"
+msgstr "Steg"
+
+#: src/matlagaren/main.py:111
+#, python-format
+msgid "Step %d of %d"
+msgstr "Steg %d av %d"
+
+#: src/matlagaren/main.py:130
+msgid "Step-by-step cooking"
+msgstr "Matlagning steg för steg"
