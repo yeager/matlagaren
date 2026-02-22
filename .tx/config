@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+[o:danielnylander:p:matlagaren:r:matlagaren-pot]
+file_filter = po/<lang>.po
+source_file = po/matlagaren.pot
+source_lang = en
+type = PO

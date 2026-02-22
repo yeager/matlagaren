@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Umatlagaren
+Comment=Step-by-step cooking recipes for children
+Comment[sv]=Steg-för-steg bildrecept
+Exec=matlagaren
+Icon=se.danielnylander.matlagaren
+Type=Application
+Categories=Education;Accessibility;
