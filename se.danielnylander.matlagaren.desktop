@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Umatlagaren
+Name=The Cook
+Name[sv]=Matlagaren
 Comment=Step-by-step cooking recipes for children
 Comment[sv]=Steg-för-steg bildrecept
 Exec=matlagaren
