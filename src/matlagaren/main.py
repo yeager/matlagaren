@@ -25,7 +25,7 @@ RECIPES = [
 class MainWindow(Adw.ApplicationWindow):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.set_title(_('The Cook'))
+        self.set_title(_('Cooking Guide'))
         self.set_default_size(500, 550)
         self._step = 0
         self._recipe = None
@@ -124,7 +124,7 @@ class App(Adw.Application):
         super().__init__(application_id='se.danielnylander.matlagaren')
         self.connect('activate', lambda a: MainWindow(application=a).present())
         about = Gio.SimpleAction.new('about', None)
-        about.connect('activate', lambda a,p: Adw.AboutDialog(application_name=_('The Cook'),
+        about.connect('activate', lambda a,p: Adw.AboutDialog(application_name=_('Cooking Guide'),
             application_icon=APP_ID, version=__version__, developer_name='Daniel Nylander',
             website='https://github.com/yeager/matlagaren', license_type=Gtk.License.GPL_3_0,
             comments=_('Step-by-step cooking')).present(self.get_active_window()))

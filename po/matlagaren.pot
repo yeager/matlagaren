@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the matlagaren package.
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: matlagaren\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 20:04+0100\n"
+"POT-Creation-Date: 2026-02-23 08:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,108 +17,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/matlagaren/main.py:20
-msgid "Sandwich"
-msgstr ""
-
-#: src/matlagaren/main.py:20
-msgid "Get 2 slices of bread"
-msgstr ""
-
-#: src/matlagaren/main.py:20
-msgid "Add butter"
-msgstr ""
-
-#: src/matlagaren/main.py:20
-msgid "Add cheese"
-msgstr ""
-
-#: src/matlagaren/main.py:20
-msgid "Add ham"
-msgstr ""
-
-#: src/matlagaren/main.py:20
-msgid "Close sandwich"
-msgstr ""
-
-#: src/matlagaren/main.py:20
-msgid "Cut in half"
-msgstr ""
-
-#: src/matlagaren/main.py:20
-msgid "Done! Enjoy!"
-msgstr ""
-
-#: src/matlagaren/main.py:21
-msgid "Smoothie"
-msgstr ""
-
-#: src/matlagaren/main.py:21
-msgid "Get a banana"
-msgstr ""
-
-#: src/matlagaren/main.py:21
-msgid "Peel the banana"
-msgstr ""
-
-#: src/matlagaren/main.py:21
-msgid "Put in blender"
-msgstr ""
-
-#: src/matlagaren/main.py:21
-msgid "Add milk"
-msgstr ""
-
-#: src/matlagaren/main.py:21
-msgid "Add berries"
-msgstr ""
-
-#: src/matlagaren/main.py:21
-msgid "Blend!"
-msgstr ""
-
-#: src/matlagaren/main.py:21
-msgid "Pour in glass"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Pancakes"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Mix flour and milk"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Add egg"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Stir well"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Heat the pan"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Pour batter"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Wait until bubbles"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Flip!"
-msgstr ""
-
-#: src/matlagaren/main.py:22
-msgid "Add toppings"
-msgstr ""
-
 #: src/matlagaren/main.py:28 src/matlagaren/main.py:127
-msgid "The Cook"
+msgid "Cooking Guide"
 msgstr ""
 
 #: src/matlagaren/main.py:36
