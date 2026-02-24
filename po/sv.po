@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: matlagaren\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:20+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:22+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305247/sv/)\n"
@@ -27,19 +27,19 @@ msgstr "Macka"
 
 #: src/matlagaren/main.py:20
 msgid "Get 2 slices of bread"
-msgstr "Ta två brödskivor"
+msgstr "Ta fram två brödskivor"
 
 #: src/matlagaren/main.py:20
 msgid "Add butter"
-msgstr "Lägg till smör"
+msgstr "Tillsätt smör"
 
 #: src/matlagaren/main.py:20
 msgid "Add cheese"
-msgstr "Lägg till ost"
+msgstr "Tillsätt ost"
 
 #: src/matlagaren/main.py:20
 msgid "Add ham"
-msgstr "Lägg till skinka"
+msgstr "Tillsätt skinka"
 
 #: src/matlagaren/main.py:20
 msgid "Close sandwich"
@@ -47,11 +47,11 @@ msgstr "Stäng mackan"
 
 #: src/matlagaren/main.py:20
 msgid "Cut in half"
-msgstr "Skär i två halvor"
+msgstr "Skär i halvor"
 
 #: src/matlagaren/main.py:20
 msgid "Done! Enjoy!"
-msgstr "Klar! Njut av den!"
+msgstr "Klart! Ha så kul!"
 
 #: src/matlagaren/main.py:21
 msgid "Smoothie"
@@ -67,15 +67,15 @@ msgstr "Skala bananen"
 
 #: src/matlagaren/main.py:21
 msgid "Put in blender"
-msgstr "Lägg den i en mixer"
+msgstr "Lägg i mixern"
 
 #: src/matlagaren/main.py:21
 msgid "Add milk"
-msgstr "Lägg till mjölk"
+msgstr "Tillsätt mjölk"
 
 #: src/matlagaren/main.py:21
 msgid "Add berries"
-msgstr "Lägg till bär"
+msgstr "Tillsätt bär"
 
 #: src/matlagaren/main.py:21
 msgid "Blend!"
@@ -83,7 +83,7 @@ msgstr "Mixa!"
 
 #: src/matlagaren/main.py:21
 msgid "Pour in glass"
-msgstr "Häll i ett glas"
+msgstr "Häll i glas"
 
 #: src/matlagaren/main.py:22
 msgid "Pancakes"
@@ -95,19 +95,19 @@ msgstr "Blanda mjöl och mjölk"
 
 #: src/matlagaren/main.py:22
 msgid "Add egg"
-msgstr "Lägg till ägg"
+msgstr "Tillsätt ägg"
 
 #: src/matlagaren/main.py:22
 msgid "Stir well"
-msgstr "Blanda väl"
+msgstr "Rör om ordentligt"
 
 #: src/matlagaren/main.py:22
 msgid "Heat the pan"
-msgstr "Värm stekpannan"
+msgstr "Värm upp pannan"
 
 #: src/matlagaren/main.py:22
 msgid "Pour batter"
-msgstr "Häll i lite smet"
+msgstr "Häll i smet"
 
 #: src/matlagaren/main.py:22
 msgid "Wait until bubbles"
@@ -119,41 +119,58 @@ msgstr "Vänd!"
 
 #: src/matlagaren/main.py:22
 msgid "Add toppings"
-msgstr "Lägg till garnering"
+msgstr "Lägg till toppings"
 
-#: src/matlagaren/main.py:28 src/matlagaren/main.py:127
+#: src/matlagaren/main.py:28 src/matlagaren/main.py:186
+#: src/matlagaren/main.py:194
+msgid "Cooking Guide"
+msgstr "Matlagaren"
+
+#: src/matlagaren/main.py:44
 msgid "Matlagaren"
 msgstr "Matlagaren"
 
-#: src/matlagaren/main.py:36
+#: src/matlagaren/main.py:50
 msgid "About"
 msgstr "Om"
 
-#: src/matlagaren/main.py:47
+#: src/matlagaren/main.py:61
 msgid "What shall we make?"
 msgstr "Vad ska vi laga?"
 
-#: src/matlagaren/main.py:67
+#: src/matlagaren/main.py:81
 msgid "Recipes"
 msgstr "Recept"
 
-#: src/matlagaren/main.py:86
+#: src/matlagaren/main.py:100
 msgid "Done ✓"
 msgstr "Klar ✓"
 
-#: src/matlagaren/main.py:91
+#: src/matlagaren/main.py:105
 msgid "← Back"
 msgstr "← Bakåt"
 
-#: src/matlagaren/main.py:95
+#: src/matlagaren/main.py:109
 msgid "Steps"
 msgstr "Steg"
 
-#: src/matlagaren/main.py:111
+#: src/matlagaren/main.py:125
 #, python-format
 msgid "Step %d of %d"
 msgstr "Steg %d av %d"
 
-#: src/matlagaren/main.py:130
+#: src/matlagaren/main.py:167
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/matlagaren/main.py:189
 msgid "Step-by-step cooking"
 msgstr "Matlagning steg för steg"
+
+#: src/matlagaren/main.py:200
+msgid "Description here"
+msgstr "Beskrivning här"
+
+#: src/matlagaren/main.py:202
+msgid "Thanks to"
+msgstr "Tack till"
